@@ -28,7 +28,7 @@
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Favicon -->
-  <link rel="shortcut icon" type="image/x-icon" href="assets/images/icons/icon_logo2.png">
+  <link rel="shortcut icon" type="image/x-icon" href="http://rizencode/assets/img/test.ico">
   <link rel="stylesheet" href="http://ryzencode/articles/accueil/articles/assets/css/style.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
@@ -53,7 +53,7 @@
             <a class="nav-link text-danger" href="?action=edit_delete">MODIFIER OU SUPPRIMER</a>
           </li>
         </ul>
-        <form method="POST" action="https://alphamonetique.com/articles/logout.php">
+        <form method="POST" action="http://ryzencode/articles/logout.php">
           <a href="http://ryzencode/articles">Déconnexion</a>
         </form>
       </div>
