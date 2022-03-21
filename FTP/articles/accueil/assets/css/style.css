@@ -1,0 +1,56 @@
+body {
+    background-color: #030708 !important;;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+}
+
+.logo img {
+    height: 30vh;
+}
+
+
+.container {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.articles {
+    font-size: 14px;
+    border: 5px solid #111;
+    color: rgb(179, 179, 179);
+    padding: 5px;
+    background-color: #000;
+}
+
+.articles h4 {
+    font: small-caps bold 24px/1 sans-serif;
+}
+
+.articles img {
+    height: 40vh;
+}
+
+.articles a {
+    background-color: #06682c;
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+    font: small-caps bold 14px/1 sans-serif;
+    text-decoration: none;
+    border: #04471e solid 2px;
+}
+
+.articles a:hover {
+    background-color: #04471e;
+    color: white;
+}
+
+.articles p {
+    font-size: 16px;
+    font: italic 1.2em "Fira Sans", serif;
+}
