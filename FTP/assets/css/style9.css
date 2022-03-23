@@ -315,7 +315,7 @@ link
           transform: translateX(5px);
 }
 .art-link.art-color-link {
-  color: #7570FF;
+  color: #075eff;
 }
 .art-link.art-color-link:hover {
   color: #075eff;
@@ -1725,7 +1725,7 @@ content
 }
 .art-price .art-price-body .art-price-cost .art-number {
   font-size: 32px;
-  color: #5552A8;
+  color: #0665E1;
   font-weight: 600;
   margin-bottom: 0;
 }

@@ -8,7 +8,7 @@
   <!-- color of address bar in mobile browser -->
   <meta name="theme-color" content="#2B2B35">
   <!-- favicon  -->
-  <link rel="shortcut icon" href="http://rizencode/assets/img/test.ico" type="image/x-icon">
+  <link href="assets/img/icon.png" rel="icon">
   <!-- bootstrap css -->
   <link rel="stylesheet" href="assets/css/plugins/bootstrap.min.css">
   <!-- font awesome css -->
@@ -18,9 +18,11 @@
   <!-- fancybox css -->
   <link rel="stylesheet" href="assets/css/plugins/fancybox.min.css">
   <!-- main css -->
-  <link rel="stylesheet" href="assets/css/style9.css">
+  <link rel="stylesheet" href="assets/css/main2.css">
 
-  <title>RizenCode: Création Web</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+
+  <title>CHRIXCODE: Création Web</title>
 </head>
 
 <body>
@@ -93,7 +95,7 @@
                         </div>
                         <!-- main title end -->
                         <!-- photo -->
-                        <img src="assets/img/code-2.png" class="art-banner-photo top" alt="Your Name">
+                        <img src="assets/img/test.png" class="art-banner-photo top" alt="Your Name">
                       </div>
                       <!-- banner overlay end -->
                     </div>
@@ -397,6 +399,7 @@
                         <ul class="art-price-list">
                           <!-- list item -->
                           <li class="art-empty-item">Ajout Panier</li>
+                          <li class="art-empty-item">Catalogue</li>
                           <li class="art-empty-item">Ventes de produits</li>
                           <li class="art-empty-item">Système de paiement</li>
                           <li>Ui Design</li>
@@ -449,6 +452,8 @@
                           <!-- list item -->
                           <li>Installation d’éléments graphiques nouveaux</li>
                           <li>Mis à jour des contenus (texte, photos, ...)</li>
+                          <li>Modification de la base SQL</li>
+                          <li>Interventions sur les logiciels de gestion</li>
                           <li>Assistance technique et conseil par courriel ou téléphone</li>
                         </ul>
                         <!-- price list end -->
@@ -479,6 +484,7 @@
                         <ul class="art-price-list">
                           <!-- list item -->
                           <li>Ajout Panier</li>
+                          <li>Catalogue</li>
                           <li>Ventes de produits</li>
                           <li>Système de paiement</li>
                           <li>Ui Design</li>

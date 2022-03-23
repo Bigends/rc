@@ -3,7 +3,7 @@
       <!-- preloader content -->
       <div class="art-preloader-content">
         <!-- title -->
-        <img src="assets/img/code-2.png" width="450" height="250" alt="">
+        <h1>CHRIXCODE.CXC</h1><br><br><br>
         <!-- progressbar -->
         <div id="preloader" class="art-preloader-load"></div>
       </div>

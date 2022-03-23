@@ -19,8 +19,8 @@
             <div class="art-header">
               <!-- avatar -->
               <div class="art-avatar">
-                <a data-fancybox="avatar" href="assets/img/face-1.jpg" class="art-avatar-curtain">
-                  <img src="assets/img/face-3.png" alt="avatar">
+                <a data-fancybox="avatar" href="assets/img/face-4.png" class="art-avatar-curtain">
+                  <img src="assets/img/face-4.png" alt="avatar">
                   <i class="fas fa-expand"></i>
                 </a>
                 <!-- available -->
@@ -31,7 +31,7 @@
               </div>
               <!-- avatar end -->
               <!-- name -->
-              <h5 class="art-name mb-10"><a href="index.php">RyzenCode</a></h5>
+              <h5 class="art-name mb-10"><a href="index.php">CHRIXCODE</a></h5>
               <!-- post -->
               <div class="art-sm-text">Développeur Web FULLSTRACK <br>Ui/UX Designer <br>Programmeur <br>Monétique
               </div>
@@ -212,15 +212,15 @@
             <!-- sidebar social -->
             <div class="art-ls-social">
               <!-- social link -->
-              <a href="#." target="_blank"><i class="fab fa-linkedin-in"></i></a>
+              <a href="#." target="_blank"><i class="bi bi-facebook"></i></a>
               <!-- social link -->
-              <a href="#." target="_blank"><i class="fab fa-dribbble"></i></a>
+              <a href="#." target="_blank"><i class="bi bi-instagram"></i></a>
               <!-- social link -->
-              <a href="#." target="_blank"><i class="fab fa-behance"></i></a>
+              <a href="#." target="_blank"><i class="bi bi-envelope-fill"></i></a>
+              <!-- social link -->
+              <a href="#." target="_blank"><i class="bi bi-whatsapp"></i></a>
               <!-- social link -->
               <a href="#." target="_blank"><i class="fab fa-github"></i></a>
-              <!-- social link -->
-              <a href="#." target="_blank"><i class="fab fa-twitter"></i></a>
             </div>
             <!-- sidebar social end -->
 
