@@ -1,3 +1,13 @@
+<!-- 
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||| ** DÉVELOPPEUR             ->  $_POSTE(['CHRIS']);     -> www.chrixcode.com **
+|||||||||          ||||  ||||||  ||||          ||||||||| ** DESIGNER GRAPHIQUE      ->  $_POSTE(['TROY']);      -> www.tdkzone.com   **
+|||||||||  ||||||||||||||  ||  ||||||  ||||||||||||||||| ** COMMUNITY MANAGER       ->  $_POSTE(['CHRISNOR']);  -> www.chrisnord.com **
+|||||||||  ||||||||||||||||  ||||||||  ||||||||||||||||| ** PROGRAMMEUR LOGICIEL    ->  $_POSTE(['CHRIS']);     -> www.chrixcode.com **
+|||||||||  ||||||||||||||  ||  ||||||  ||||||||||||||||| ** DEV APPLICATION MOBILE  ->  $_POSTE(['CHRIS']);     -> www.chrixcode.com **
+|||  ||||          ||||  ||||||  ||||          ||||||||| ** RESPONSABLE SEO         ->  $_POSTE(['CHRIS']);     -> www.chrixcode.com **
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||| ** RESPONSABLE MODÉRATEUR  ->  $_POSTE(['YESANIA']);   -> www.yesania.com   **
+
+-->
 <!doctype html>
 <html lang="zxx">
 
