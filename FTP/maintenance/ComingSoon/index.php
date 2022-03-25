@@ -82,7 +82,7 @@
         <div class="row content">
           <div class="col-lg-6">
             <h2>À propos</h2>
-            <h3>Une équipe de développeur et de commercial, vous accompagne vers votre création web.</h3>
+            <h3>Une équipe de développeurs et commerciale, vous accompagne vers votre création web.</h3>
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
             <p>
