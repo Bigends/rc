@@ -1,3 +1,13 @@
+<!-- 
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||| ** DÉVELOPPEUR             ->  $_POSTE(['CHRIS']);     -> www.chrixcode.com **
+|||||||||          ||||  ||||||  ||||          ||||||||| ** DESIGNER GRAPHIQUE      ->  $_POSTE(['TROY']);      -> www.tdkzone.com   **
+|||||||||  ||||||||||||||  ||  ||||||  ||||||||||||||||| ** COMMUNITY MANAGER       ->  $_POSTE(['CHRISNOR']);  -> www.chrisnord.com **
+|||||||||  ||||||||||||||||  ||||||||  ||||||||||||||||| ** PROGRAMMEUR LOGICIEL    ->  $_POSTE(['CHRIS']);     -> www.chrixcode.com **
+|||||||||  ||||||||||||||  ||  ||||||  ||||||||||||||||| ** DEV APPLICATION MOBILE  ->  $_POSTE(['CHRIS']);     -> www.chrixcode.com **
+|||  ||||          ||||  ||||||  ||||          ||||||||| ** RESPONSABLE SEO         ->  $_POSTE(['CHRIS']);     -> www.chrixcode.com **
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||| ** RESPONSABLE MODÉRATEUR  ->  $_POSTE(['YESANIA']);   -> www.yesania.com   **
+<------------------------ 100% ------------------------>
+
 <!doctype html>
 <html lang="zxx">
 
@@ -8,7 +18,7 @@
   <!-- color of address bar in mobile browser -->
   <meta name="theme-color" content="#2B2B35">
   <!-- favicon  -->
-  <link rel="shortcut icon" href="http://rizencode/assets/img/test.ico" type="image/x-icon">
+  <link href="assets/img/icon.png" rel="icon">
   <!-- bootstrap css -->
   <link rel="stylesheet" href="assets/css/plugins/bootstrap.min.css">
   <!-- font awesome css -->
@@ -20,7 +30,7 @@
   <!-- main css -->
   <link rel="stylesheet" href="assets/css/style9.css">
 
-  <title>RyzenCode: Design</title>
+  <title>CHRIXCODE: Design</title>
 </head>
 
 <body>

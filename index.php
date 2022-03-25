@@ -6,8 +6,8 @@
 |||||||||  ||||||||||||||  ||  ||||||  ||||||||||||||||| ** DEV APPLICATION MOBILE  ->  $_POSTE(['CHRIS']);     -> www.chrixcode.com **
 |||  ||||          ||||  ||||||  ||||          ||||||||| ** RESPONSABLE SEO         ->  $_POSTE(['CHRIS']);     -> www.chrixcode.com **
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||| ** RESPONSABLE MODÉRATEUR  ->  $_POSTE(['YESANIA']);   -> www.yesania.com   **
+<------------------------ 100% ------------------------>
 
--->
 <!doctype html>
 <html lang="zxx">
 

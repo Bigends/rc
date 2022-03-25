@@ -29,7 +29,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <!-- Favicon -->
-  <link rel="shortcut icon" type="image/x-icon" href="assets/images/icons/icon_logo2.png">
+  <link href="http://ryzencode/assets/img/icon.png" rel="icon">
 
   <link rel="stylesheet" href="http://localhost/AMI/assets/css/bootstrap.min.css">
   <link rel="stylesheet" href="http://localhost/AMI/assets/css/font-awesome.min.css">

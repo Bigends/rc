@@ -8,7 +8,7 @@
   <!-- color of address bar in mobile browser -->
   <meta name="theme-color" content="#2B2B35">
   <!-- favicon  -->
-  <link rel="shortcut icon" href="https://ryzencode/assets/img/test.ico" type="image/x-icon">
+  <link href="assets/img/icon.png" rel="icon">
   <!-- bootstrap css -->
   <link rel="stylesheet" href="assets/css/plugins/bootstrap.min.css">
   <!-- font awesome css -->
@@ -20,7 +20,7 @@
   <!-- main css -->
   <link rel="stylesheet" href="assets/css/style9.css">
 
-  <title>RyzenCode: Détails</title>
+  <title>CHRIXCODE: Détails</title>
 </head>
 
 <body>

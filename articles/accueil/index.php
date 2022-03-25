@@ -29,7 +29,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="http://rizencode/assets/img/test.ico">
+    <link href="assets/img/icon.png" rel="icon">
 
     <link rel="stylesheet" href="assets/css/style.css">
     <!-- Bootstrap -->

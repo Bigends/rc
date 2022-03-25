@@ -29,17 +29,17 @@
   <header id="header" class="d-flex align-items-center">
     <div class="container d-flex flex-column align-items-center">
 
-      <img src="assets/img/test.png" height="200px" width="" alt=""><br /><br />
+      <img src="assets/img/test.png" height="150px" width="400px" alt=""><br /><br />
       <h2>Une solution Web pour tous!</h2>
       <h1>Bientôt Disponible!</h1>
       <div class="countdown d-flex justify-content-center" data-count="2022/04/13">
         <div>
           <h3>%d</h3>
-          <h4>Days</h4>
+          <h4>Jours</h4>
         </div>
         <div>
           <h3>%h</h3>
-          <h4>Hours</h4>
+          <h4>Heures</h4>
         </div>
         <div>
           <h3>%m</h3>
@@ -47,7 +47,7 @@
         </div>
         <div>
           <h3>%s</h3>
-          <h4>Seconds</h4>
+          <h4>Secondes</h4>
         </div>
       </div>
 
@@ -87,7 +87,7 @@
           <div class="col-lg-6 pt-4 pt-lg-0">
             <p>
               Vous souhaitez ouvrir votre entreprise ? On se charge de vous localiser sur le Web! Nous mettons on place
-              des stratégies de référence afin de vous rendre visible au mieu!
+              des stratégies de référence afin de vous rendre visible au mieux!
             </p>
             <ul>
               <li><i class="bi bi-check"></i> Offre Jeune</li>
@@ -95,7 +95,7 @@
               <li><i class="bi bi-check"></i> Active sur les communes éloignées</li>
             </ul>
             <p class="fst-italic">
-              Nos proposons des sites de gestions de recette pour tout société qui souhaitent gérer activement leur recette.
+              Nos proposons des sites de gestions pour toutes sociétés qui souhaitent gérer activement leur recette.
             </p>
           </div>
         </div>
@@ -146,14 +146,17 @@
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Votre Nom" required>
                 </div>
                 <div class="col-md-6 form-group mt-3 mt-md-0">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Votre adresse mail" required>
                 </div>
               </div>
-              <div class="form-group mt-3">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+              <div class="form-group">
+                  <input type="text" class="form-control" name="tel" id="tel" placeholder="Votre numéro de téléphone" required>
+              </div>
+              <div class="form-group">
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Objet" required>
               </div>
               <div class="form-group mt-3">
                 <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
@@ -178,10 +181,10 @@
   <footer id="footer">
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>| 2022 - 2023</span></strong>. Tous droits réservés.
+        &copy; Copyright <strong><span>| 2022 - 2023</span></strong> Tous droits réservés.
       </div>
       <div class="credits">
-        Développé par <a href="https://bootstrapmade.com/">.CXC</a>
+        Développé par <a href="https://cxcode.com/twit">.CXC</a>
       </div>
     </div>
   </footer><!-- End #footer -->
