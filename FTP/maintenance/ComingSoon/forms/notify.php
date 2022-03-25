@@ -7,7 +7,7 @@
   */
 
   // Replace contact@example.com with your real receiving email address
-  $receiving_email_address = 'contact@example.com';
+  $receiving_email_address = 'contact@chrixcode.com';
 
   if( file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php' )) {
     include( $php_email_form );
@@ -19,8 +19,9 @@
   $contact->ajax = true;
   
   $contact->to = $receiving_email_address;
-  $contact->from_name = "Subscriber";
+  $contact->from_name = "name";
   $contact->from_email = $_POST['email'];
+  $contact->from_tel = $_POST['tel'];
   $contact->subject ="Notify me request";
 
   // Uncomment below code if you want to use SMTP to send emails. You need to enter your correct SMTP credentials

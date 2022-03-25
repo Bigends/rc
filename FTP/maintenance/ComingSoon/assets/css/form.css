@@ -1,0 +1,51 @@
+.nameform {
+    background-color: rgba(0, 0, 0, 0.301);
+    color: rgb(235, 235, 235);
+    height: 4vh;
+    width: 100%;
+    border: 1px solid black;
+}
+
+.mailform {
+    background-color: rgba(0, 0, 0, 0.301);
+    color: rgb(235, 235, 235);
+    height: 4vh;
+    width: 100%;
+    border: 1px solid black;
+}
+
+
+.telform {
+    background-color: rgba(0, 0, 0, 0.301);
+    color: rgb(235, 235, 235);
+    height: 4vh;
+    width: 100%;
+    border: 1px solid black;
+    margin-top: 0.5vh;
+}
+
+
+.objetform {
+    background-color: rgba(0, 0, 0, 0.301);
+    color: rgb(235, 235, 235);
+    height: 4vh;
+    width: 100%;
+    border: 1px solid black;
+    margin-top: 0.5vh;
+}
+
+
+.messageform {
+    background-color: rgba(0, 0, 0, 0.301);
+    color: rgb(235, 235, 235);
+    border: 1px solid black;
+    width: 100%;
+}
+
+.envoi {
+    background-color: rgba(182, 0, 0, 0.932);
+    color: rgb(235, 235, 235);
+    border: 1px solid black;
+    width: 10vh;
+    height: 4vh;
+}

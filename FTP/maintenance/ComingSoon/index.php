@@ -13,7 +13,9 @@
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,600,600i,700,700i" rel="stylesheet">
+  <link
+    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,600,600i,700,700i"
+    rel="stylesheet">
 
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -21,6 +23,10 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
+  <link href="assets/css/form.css" rel="stylesheet">
+
+  <!-- Google Absence -->
+  <meta name="google-site-verification" content="M6r_mNTtbWB9kYRgfkp5vwtq9jXqQD0guwj-GuW05vA" />
 
 </head>
 
@@ -135,38 +141,46 @@
                   <p>+594 694 48 29 48</p>
                 </div>
               </div>
+              <hr>
             </div>
-
+          
           </div>
 
         </div>
 
         <div class="row justify-content-center">
           <div class="col-lg-10">
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+            <form action="send.php" method="post">
               <div class="row">
-                <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Votre Nom" required>
+                <div class="col">
+                  <input type="text" name="nom" id="nom" class="nameform" placeholder=" Nom*" required>
                 </div>
-                <div class="col-md-6 form-group mt-3 mt-md-0">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Votre adresse mail" required>
+                <div class="col">
+                  <input type="email" name="mail" class="mailform" placeholder=" Adresse mail*"
+                    required>
                 </div>
               </div>
-              <div class="form-group">
-                  <input type="text" class="form-control" name="tel" id="tel" placeholder="Votre numéro de téléphone" required>
+              <div class="row">
+                <div class="col">
+                  <hr>
+                  <input type="text" name="tel" class="telform" placeholder=" Numéro de téléphone*" required>
+                </div>
+                <div class="col">
+                  <hr>
+                  <input type="text" name="objet" class="objetform" placeholder=" Objet*" required>
+                </div>
               </div>
-              <div class="form-group">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Objet" required>
+              <hr>
+              <div class="row">
+                <div class="form-group mt-3">
+                  <textarea name="message" cols="40" rows="10"
+                    class="messageform" aria-required="true"
+                    aria-invalid="false" placeholder=" Votre demande*" required></textarea>
+                </div>
               </div>
-              <div class="form-group mt-3">
-                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+              <div class="contact-submit">
+                <center><input type="submit" name="submit" value="Envoyer" class="envoi"></center>
               </div>
-              <div class="my-3">
-                <div class="loading">Chargement</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Votre message a bien été envoyé. CXC vous remercie!</div>
-              </div>
-              <div class="text-center"><button type="submit">Envoyer</button></div>
             </form>
           </div>
 
@@ -189,7 +203,8 @@
     </div>
   </footer><!-- End #footer -->
 
-  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+      class="bi bi-arrow-up-short"></i></a>
 
   <!-- Vendor JS Files -->
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
